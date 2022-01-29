@@ -76,7 +76,7 @@ Title.Size = UDim2.new(0, 352, 0, 18)
 Title.Font = Enum.Font.GothamBold
 
 
-Title.Text = "Rice FE Fly "
+Title.Text = "Night Hub"
 
 
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -110,7 +110,7 @@ Credits.Size = UDim2.new(0, 352, 0, 24)
 Credits.Font = Enum.Font.GothamBold
 
 
-Credits.Text = "Made By Jamess#2400"
+Credits.Text = "Made By Night Hub"
 
 
 Credits.TextColor3 = Color3.fromRGB(255, 255, 255)
@@ -144,7 +144,7 @@ Toggle.Size = UDim2.new(0, 332, 0, 66)
 Toggle.Font = Enum.Font.GothamBold
 
 
-Toggle.Text = "Enable Fly Toggle | On/Off = E Key"
+Toggle.Text = "Enable Fly Toggle | On/Off = Q Key"
 
 
 Toggle.TextColor3 = Color3.fromRGB(65, 255, 135)
